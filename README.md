@@ -1,7 +1,11 @@
-## Hi there 👋
+<h1>Hi, I'm Nacari! <br/><a href="https://github.com/NacariH">Future Linux Professional</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Veteran US NAVY Information Systems Technician</a></h1>
+
+<h2>👨‍💻 Linux projects:</h2>
+
+- <b>Coming Soon!</b>
 
 <!--
-**NacariH/NacariH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
